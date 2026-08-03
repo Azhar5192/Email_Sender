@@ -1,0 +1,11 @@
+
+👋 Hello {name},
+
+🎉 Thank you for contacting Nexora Consultancy.
+
+✅ We have received your inquiry!!
+
+📞 We will contact you within 24 hours.
+
+Regards,
+Nexora Consultancy
