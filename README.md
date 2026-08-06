@@ -79,7 +79,7 @@ Email_Sender/
 
 ![Email Received](image/gmail.png)
 
-## 📄 License
+## LICENSE
 
 This project is licensed under the **MIT License**.
 
