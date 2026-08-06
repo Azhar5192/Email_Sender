@@ -73,8 +73,8 @@ Email_Sender/
 
 ### Terminal Output
 
-![Terminal Output](images/terminal.png)
+![Terminal Output](image/terminal.png)
 
 ### Email Received
 
-![Email Received](images/gmail.png)
+![Email Received](image/gmail.png)
