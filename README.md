@@ -79,4 +79,5 @@ Email_Sender/
 
 ![Email Received](image/gmail.png)
 
-
+LICENSE
+![MIT.see](license)
