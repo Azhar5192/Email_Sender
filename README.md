@@ -22,3 +22,17 @@ APP_PASSWORD=your_app_password
 ```bash
 python main.py
 ```
+
+# 📧 Bulk Email Sender
+
+A Python-based Bulk Email Sender that reads contacts from a CSV file, personalizes email templates, and sends emails securely using Gmail SMTP.
+
+## ✨ Features
+
+- 📄 Read contacts from a CSV file
+- 📨 Send personalized emails
+- 🔐 Secure Gmail SMTP authentication
+- 🔒 Store credentials using `.env`
+- 📂 Modular Python architecture
+- 📋 Easy-to-edit email templates
+- ⚡ Bulk email sending
