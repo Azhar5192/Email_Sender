@@ -61,3 +61,13 @@ Email_Sender/
 - python-dotenv
 - CSV Module
 - EmailMessage
+
+- ## 📸 Screenshots
+
+### Terminal Output
+
+![Terminal Output](images/terminal.png)
+
+### Email Received
+
+![Email Received](images/gmail.png)
