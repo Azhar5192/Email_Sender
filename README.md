@@ -79,5 +79,8 @@ Email_Sender/
 
 ![Email Received](image/gmail.png)
 
-LICENSE
-![MIT.see](license)
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for more information.
